@@ -21,3 +21,10 @@ This group can represent the project for administrative and program manager duti
 | Mohan Shash       | [mohan-shash](https://github.com/mohan-shash)                        | Red Hat         | Representative   |
 | Preethi Thomas    | [preethit](https://github.com/preethit)                              | Red Hat         | Representative   |
 | Mark Russell      | [marrusl](https://github.com/marrusl)                                | Red Hat         | Representative   |
+
+# Project Contributors
+
+This group consists of active community members who help with issue triaging, pull request reviews, documentation, and code contributions. Granted repository triage permissions.
+
+| Name              | GitHub ID                                                            | Employer        | Responsibilities |
+| ----              | ----                                                                 | ----            | ----             |
