@@ -4,6 +4,7 @@ The Bootc project is dedicated to providing transactional, in-place operating sy
 This governance explains how the project is run.
 
 - [Values](#values)
+- [Project Contributors](#project-contributors)
 - [Maintainers](#maintainers)
 - [Becoming a Maintainer](#becoming-a-maintainer)
 - [Meetings](#meetings)
@@ -35,6 +36,33 @@ The Bootc and its leadership embrace the following values:
   participation, and there is a clear path up the contributor ladder into leadership
   positions.
 
+## Project Contributors
+
+Project Contributors are active, trusted members of the bootc community who contribute code, documentation, issue triaging, or community support. The current contributors are all [members of the bootc-dev organization](https://github.com/orgs/bootc-dev/people) here on GitHub.
+
+This role is granted to community members who participate regularly in the project. Project Contributors are expected to act in the best interest of the project, follow the Code of Conduct, and help the community by reviewing pull requests, triaging issues, and helping users. In return, they get recognition as official members of the bootc project.
+
+### Becoming a Project Contributor
+
+To become a Project Contributor you need to demonstrate the following:
+
+  * active participation in the project for 2 months or more,
+  * multiple non-trivial contributions (code commits, documentation improvements, issue triaging, or helping users in discussion forums),
+  * ability to collaborate with the team,
+  * understanding of how the team works (policies, processes for testing and code review, etc).
+
+A new Project Contributor can be proposed by an existing Maintainer or by the candidate themselves by opening a PR against [MAINTAINERS.md](./MAINTAINERS.md). The nomination will be approved via lazy consensus or a simple majority vote of the Maintainers.
+
+Project Contributors who are approved will be invited to the bootc GitHub organization and granted Triage permissions on the project repositories.
+
+### Removing a Project Contributor
+
+Project Contributors may resign at any time if they feel that they will not be able to continue fulfilling their duties.
+
+Contributors may also be removed after being inactive, failure to fulfill their responsibilities, violating the Code of Conduct, or other reasons. Inactivity is defined as a period of very low or no activity in the project for a year or more.
+
+A Project Contributor may be removed at any time by a 2/3 vote of the Maintainers.
+
 ## Maintainers
 
 Bootc Maintainers have "gated" write access to the [project GitHub repository](https://github.com/bootc-dev/bootc).
@@ -63,6 +91,7 @@ is the governing body for the project.
 
 To become a Maintainer you need to demonstrate the following:
 
+  * active status as a Project Contributor (typically for at least 3 months),
   * commitment to the project:
     * participate in discussions, contributions, code and documentation reviews for 6 months or more,
     * perform reviews for 20 non-trivial pull requests,
