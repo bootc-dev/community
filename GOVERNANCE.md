@@ -38,7 +38,7 @@ The Bootc and its leadership embrace the following values:
 
 ## Project Contributors
 
-Project Contributors are active, trusted members of the bootc community who contribute code, documentation, issue triaging, or community support. The current contributors are all [members of the bootc-dev organization](https://github.com/orgs/bootc-dev/people) here on GitHub.
+Project Contributors are active, trusted members of the bootc community who contribute code, documentation, issue triaging, or community support. The current contributors are [members of the bootc-dev organization](https://github.com/orgs/bootc-dev/people) on GitHub.
 
 This role is granted to community members who participate regularly in the project. Project Contributors are expected to act in the best interest of the project, follow the Code of Conduct, and help the community by reviewing pull requests, triaging issues, and helping users. In return, they get recognition as official members of the bootc project.
 
@@ -51,7 +51,7 @@ To become a Project Contributor you need to demonstrate the following:
   * ability to collaborate with the team,
   * understanding of how the team works (policies, processes for testing and code review, etc).
 
-A new Project Contributor can be proposed by an existing Maintainer or by the candidate themselves by opening a PR against [MAINTAINERS.md](./MAINTAINERS.md). The nomination will be approved via lazy consensus or a simple majority vote of the Maintainers.
+A new Project Contributor can be proposed by an existing Maintainer or by the candidate themselves by [opening an issue in the community repository](https://github.com/bootc-dev/community/issues/new/choose). The PR description must detail how the candidates' activity that meets the criteria above. Two or more Maintainers who have worked with the candidate on the project must sponsor the candidate by commenting on the issue. The new contributor can be added to the organization and welcomed on the issue before closing it as completed.
 
 Project Contributors who are approved will be invited to the bootc GitHub organization and granted Triage permissions on the project repositories.
 
@@ -101,9 +101,7 @@ To become a Maintainer you need to demonstrate the following:
   * understanding of how the team works (policies, processes for testing and code review, etc),
   * understanding of the project's code base and coding and documentation style.
 
-A new Maintainer must be proposed by an existing maintainer by opening a PR against the [MAINTAINERS.md](./MAINTAINERS.md), which will prompt a [gitvote](https://github.com/cncf/gitvote). A simple majority vote of existing Maintainers
-approves the application.  Maintainers nominations will be evaluated without prejudice
-to employer or demographics.
+A new Maintainer must be proposed by an existing Maintainer by opening a PR against [MAINTAINERS.md](./MAINTAINERS.md). The pull request description must detail how the candidate meets the criteria above. The nomination will prompt a [gitvote](https://github.com/cncf/gitvote), and a simple majority vote of existing Maintainers approves the application. Maintainer nominations will be evaluated without prejudice to employer or demographics.
 
 Maintainers who are selected will be granted the necessary GitHub rights.
 
