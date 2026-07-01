@@ -38,7 +38,7 @@ The Bootc and its leadership embrace the following values:
 
 ## Project Contributors
 
-Project Contributors are active, trusted members of the bootc community who contribute code, documentation, issue triaging, or community support. The current contributors can be found in [MAINTAINERS.md](./MAINTAINERS.md).
+Project Contributors are active, trusted members of the bootc community who contribute code, documentation, issue triaging, or community support. The current contributors are all [members of the bootc-dev organization](https://github.com/orgs/bootc-dev/people) here on GitHub.
 
 This role is granted to community members who participate regularly in the project. Project Contributors are expected to act in the best interest of the project, follow the Code of Conduct, and help the community by reviewing pull requests, triaging issues, and helping users. In return, they get recognition as official members of the bootc project.
 
