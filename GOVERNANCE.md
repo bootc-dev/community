@@ -146,6 +146,8 @@ Most votes require a simple majority of all Maintainers to succeed, except where
 otherwise noted.  Two-thirds majority votes mean at least two-thirds of all 
 existing maintainers.
 
+All votes conducted this way can be viewed at <https://gitvote.dev/audit/bootc-dev/<repo name>>. For instance, all the governance and community repo voting can be viewed at <https://gitvote.dev/audit/bootc-dev/community>.
+
 ## Modifying this Charter
 
 Changes to this Governance and its supporting documents may be approved by 
